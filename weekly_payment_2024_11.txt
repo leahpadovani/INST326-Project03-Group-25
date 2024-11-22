@@ -1,0 +1,50 @@
+Weekly Payment Report for November 2024
+
+Caregiver: 
+Frank
+Week: 1, Shifts Worked: 1, Pay: $120
+Week: 2, Shifts Worked: 1, Pay: $120
+Week: 3, Shifts Worked: 1, Pay: $120
+Week: 4, Shifts Worked: 1, Pay: $120
+Week: 5, Shifts Worked: 1, Pay: $120
+Caregiver: 
+Alice
+Week: 1, Shifts Worked: 0, Family Member: Not Paid
+Week: 2, Shifts Worked: 0, Family Member: Not Paid
+Week: 3, Shifts Worked: 0, Family Member: Not Paid
+Week: 4, Shifts Worked: 0, Family Member: Not Paid
+Week: 5, Shifts Worked: 0, Family Member: Not Paid
+Caregiver: 
+David
+Week: 1, Shifts Worked: 0, Family Member: Not Paid
+Week: 2, Shifts Worked: 0, Family Member: Not Paid
+Week: 4, Shifts Worked: 0, Family Member: Not Paid
+Week: 5, Shifts Worked: 0, Family Member: Not Paid
+Caregiver: 
+Eve
+Week: 1, Shifts Worked: 0, Family Member: Not Paid
+Week: 2, Shifts Worked: 0, Family Member: Not Paid
+Week: 3, Shifts Worked: 0, Family Member: Not Paid
+Caregiver: 
+Grace
+Week: 1, Shifts Worked: 1, Pay: $120
+Week: 2, Shifts Worked: 1, Pay: $120
+Week: 3, Shifts Worked: 1, Pay: $120
+Week: 4, Shifts Worked: 1, Pay: $120
+Week: 5, Shifts Worked: 1, Pay: $120
+Caregiver: 
+Bob
+Week: 1, Shifts Worked: 1, Pay: $120
+Week: 2, Shifts Worked: 1, Pay: $120
+Week: 3, Shifts Worked: 1, Pay: $120
+Week: 4, Shifts Worked: 1, Pay: $120
+Caregiver: 
+Charlie
+Week: 2, Shifts Worked: 1, Pay: $120
+Week: 3, Shifts Worked: 1, Pay: $120
+Week: 4, Shifts Worked: 1, Pay: $120
+Caregiver: 
+Martha
+Week: 2, Shifts Worked: 1, Pay: $120
+Week: 3, Shifts Worked: 1, Pay: $120
+Week: 4, Shifts Worked: 1, Pay: $120
