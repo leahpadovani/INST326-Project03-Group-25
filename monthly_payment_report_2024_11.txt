@@ -1,0 +1,10 @@
+Payment Report for November 2024
+
+Name: Frank, Number of Shifts Worked: 9, Pay: $1080
+Name: Alice,  Family Member: Not Paid
+Name: David,  Family Member: Not Paid
+Name: Eve,  Family Member: Not Paid
+Name: Grace, Number of Shifts Worked: 8, Pay: $960
+Name: Bob, Number of Shifts Worked: 7, Pay: $840
+Name: Charlie, Number of Shifts Worked: 9, Pay: $1080
+Name: Martha, Number of Shifts Worked: 5, Pay: $600
